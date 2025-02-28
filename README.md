@@ -27,7 +27,7 @@ Before running the app locally, you need to have the following installed:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd note-taking-app
+   cd backend
    ```
 
 3. **Install project dependencies**:
